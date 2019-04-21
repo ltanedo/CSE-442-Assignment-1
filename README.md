@@ -6,7 +6,7 @@ Group project to practice basic Linear Regression and Classifiers on real world 
 )
 
 # Main Points
-	Implemented Gradient Descent for Perceptron Learning 
-	Identified Gradient Descent yields higher error than direct minimization
-	Used class API to visualize Perceptrons, Logistic Regression, and SVM
+-	Implemented Gradient Descent for Perceptron Learning 
+-	Identified Gradient Descent yields higher error than direct minimization
+-	Used class API to visualize Perceptrons, Logistic Regression, and SVM
 
