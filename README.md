@@ -1,4 +1,4 @@
-# CSE-442-Assignment-1
+# Basics of Supervised Learning Project (Feb-Mar 2019)
 Group project to practice basic Linear Regression and Classifiers on real world diabetes test data in CSE 474 Machine Learning Class. Project coded in Python Juypter Notebook.
 
 # Visual Example
